@@ -1,20 +1,13 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:900,700,400);
 
+/* Logo CSS */
 
-
-.logo {
-  max-width: 38em;
+.logo2 div {
+    max-width: 38em;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-}
 
-.logo img {
-  width: 320px;
-  height: 320px;
-}
-
-.logo2 div {
   font-family: Roboto;
   font-weight: 900;
   font-size: 110px;
@@ -32,3 +25,4 @@
   border-bottom: 8px solid black;
   margin-top: -20px;
 }
+
